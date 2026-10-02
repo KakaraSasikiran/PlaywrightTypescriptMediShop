@@ -2,10 +2,10 @@
   "cookies": [
     {
       "name": "medishop_session",
-      "value": "tok-QKP6Y5",
+      "value": "tok-AHENB9",
       "domain": "www.way2automation.com",
       "path": "/",
-      "expires": 1793493934,
+      "expires": 1793508803,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -21,7 +21,7 @@
         },
         {
           "name": "medishop.session",
-          "value": "{\"email\":\"trainer@way2automation.com\",\"name\":\"Rahul Arora\",\"token\":\"tok-QKP6Y5\",\"remember\":true,\"loginAt\":\"2026-10-02T00:45:34.721Z\"}"
+          "value": "{\"email\":\"trainer@way2automation.com\",\"name\":\"Rahul Arora\",\"token\":\"tok-AHENB9\",\"remember\":true,\"loginAt\":\"2026-10-02T04:53:23.832Z\"}"
         },
         {
           "name": "medishop.orders::trainer@way2automation.com",
