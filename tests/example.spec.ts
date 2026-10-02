@@ -14,7 +14,7 @@ test.describe("Navigate to MediShop",async ()=>{
         await  expect(page).toHaveURL("https://www.way2automation.com/MediShopWebApp/home.html")
         await  context.storageState({opfs:true,path:'log.json',credentials:true,indexedDB:false})
     })
-    test("TestTwo",async ({})=>{
-
+    test("Performing Actions with LoggedIn Dashboard",async ({logged})=>{
+            await  logged.clickAnyTabNavbar("Wellness")
     })
 })
